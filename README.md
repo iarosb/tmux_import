@@ -1,6 +1,6 @@
 # Minimalistic (yet effective) Tmux configuration
 
-+ _**prefix**_ assigned to **[Ctrl-Space]** secures the distance between fingers throught your Tmux journey
++ _**prefix**_ assigned to **[Ctrl-Space]** secures the distance between fingers throughout your Tmux journey
 
 + the correctness of colors on the terminal is set <br>
 
